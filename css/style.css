@@ -1,0 +1,77 @@
+.background{
+    border: 1px solid green;
+    background-image: url('https://i.ibb.co/pKGd6jz/wallpaperbetter.jpg');
+    width: 100%;
+    height: 920px;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.header{
+    margin-top: 200px;
+}
+
+h1{
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    text-align: center;
+    -webkit-text-stroke: 0.5px rgb(255, 255, 255);
+}
+
+
+.breafInfo{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    text-align: center;
+    -webkit-text-stroke: 0.5px rgb(255, 255, 255);
+}
+
+.button{
+    border: 2px solid rgb(9, 44, 9);
+    width: 200px;
+    height: 63px;
+    border-radius: 15px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.buttonText{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    margin-top: 12px;
+    -webkit-text-stroke: 0.5px rgb(255, 255, 255);
+}
+
+.footContainer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.footnote1{
+    border: 20px solid rgb(9, 44, 9);
+    background-color: rgb(9, 44, 9);
+}
+
+.footnote2{
+    background-color: rgb(24, 92, 24);
+    border: 20px solid rgb(24, 92, 24)
+}
+
+.foot1{
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: extra-expanded;
+    color: azure;
+}
+
+.foot2{
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: extra-expanded;
+    color: black;
+}
