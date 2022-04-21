@@ -1,11 +1,11 @@
 body{
-    background-image: url('https://i.ibb.co/pKGd6jz/wallpaperbetter.jpg');
+    background-image: url('https://s1.hostingkartinok.com/uploads/images/2022/04/09398d2174788092a10fafac336523ae.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .header{
-    margin-top: 200px;
+    margin-top: 22vh;
 }
 
 h1{
@@ -56,13 +56,13 @@ a{
 }
 
 .footnote1{
-    border: 20px solid rgb(9, 44, 9);
     background-color: rgb(9, 44, 9);
+    padding: 20px;
 }
 
 .footnote2{
     background-color: rgb(24, 92, 24);
-    border: 20px solid rgb(24, 92, 24)
+    padding: 20px;
 }
 
 .foot1{
